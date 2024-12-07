@@ -1,7 +1,7 @@
 
-# Lyric Scraper
+# Simple Lyric Scraper
 
-**Lyric Scraper** is a Python-based application that allows users to search for song lyrics by entering the artist and song title. It features both a command-line interface (CLI) and a graphical user interface (GUI) built with Tkinter. The application fetches lyrics from [AZLyrics](https://www.azlyrics.com/) and displays them in the chosen interface.
+**Simple Lyric Scraper** is a Python-based application that allows users to search for song lyrics by entering the artist and song title. It features both a command-line interface (CLI) and a graphical user interface (GUI) built with Tkinter. The application fetches lyrics from [AZLyrics](https://www.azlyrics.com/) and displays them in the chosen interface.
 
 ---
 
