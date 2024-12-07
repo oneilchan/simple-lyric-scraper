@@ -30,7 +30,7 @@
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lyric-scraper.git
+   git clone https://github.com/oneilchan/simple-lyric-scraper.git
    cd lyric-scraper
    ```
 
