@@ -4,6 +4,9 @@ import requests
 
 def scraper(artist, title):
 	try:
+		artist = artist.replace(" ", "")
+		title = title.replace(" ", "")
+
 		# get page and parse html data 
 		lyric_page = requests.get(f"https://www.azlyrics.com/lyrics/{artist}/{title}.html")
 
