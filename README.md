@@ -68,7 +68,8 @@ python gui.py
 - **GUI**:
   - Display album cover alongside lyrics.
   - Redesign for improved aesthetics and usability.
-
+- **Spotify**
+    - Auto-fetch lyrics for currently playing songs
 ---
 
 
